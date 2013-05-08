@@ -13,6 +13,8 @@ A component for attaching custom update scripts to objects in the Whirlibulf gam
 
 The script component's ID is `script`.
 
+Register the component:
+
     var scriptComponent = require('script-component');
     game.addComponent(new scriptComponent());
 
