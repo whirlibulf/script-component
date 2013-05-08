@@ -22,10 +22,12 @@ The options object for this component:
       scripts: [...]
     }
 
-The `scripts` property is an array of objects that contain an `update` method.
+The `scripts` property is an array of script objects.
+
+The `whirlibulf/script-system` system requires the script objects to have an update method.
 
 
-# Compatible Systems
+## Compatible Systems
 
 * [whirlibulf/script-system](http://github.com/whirlibulf/script-system)
 
