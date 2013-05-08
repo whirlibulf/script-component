@@ -1,0 +1,14 @@
+{
+  "name": "script-component",
+  "repo": "whirlibulf/script-component",
+  "description": "Script component for the whirlibulf game engine",
+  "version": "0.0.1",
+  "keywords": ["whirlibulf"],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}
