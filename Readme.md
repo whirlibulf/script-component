@@ -11,7 +11,7 @@ A component for attaching custom update scripts to objects in the Whirlibulf gam
 
 ## Usage
 
-The script component's ID is `script`.
+The component ID is `script`.
 
 Register the component:
 
