@@ -3,7 +3,7 @@
   "repo": "whirlibulf/script-component",
   "description": "Script component for the whirlibulf game engine",
   "version": "0.0.1",
-  "keywords": ["whirlibulf"],
+  "keywords": ["whirlibulf", "component"],
   "dependencies": {},
   "development": {},
   "license": "MIT",
