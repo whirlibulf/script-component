@@ -15,8 +15,7 @@ The component ID is `script`.
 
 Register the component:
 
-    var scriptComponent = require('script-component');
-    game.addComponent(new scriptComponent());
+    game.addComponent('script', require('script-component'));
 
 The options object for this component:
 
