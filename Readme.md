@@ -13,7 +13,7 @@ A component for attaching custom update scripts to objects in the Whirlibulf gam
 
 Register the component:
 
-    game.addComponent('script', require('script-component'));
+    game.use('script', require('script-component'));
 
 The options object for this component:
 
